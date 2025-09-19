@@ -4,3 +4,4 @@ langchain
 pypdf
 streamlit
 google-generativeai
+langchain-community
